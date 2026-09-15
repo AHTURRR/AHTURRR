@@ -20,7 +20,11 @@ An Informatics student and passionate Web Developer who loves building functiona
 
 **Design & Creative Tools:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
+  <img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 **Dev Tools & Environment:**

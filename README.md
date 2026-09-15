@@ -32,7 +32,6 @@ An Informatics student and passionate Web Developer who loves building functiona
 
 ### 📊 GitHub Statistics
 
-<<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=USERNAME_ASLI_ANDA&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=USERNAME_ASLI_ANDA&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ASLI_ANDA&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak Stats" />
 </div>

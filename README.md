@@ -4,7 +4,7 @@
 
 # Ahmad Turmudi
 
-**Informatics student · Web developer · UI/UX enthusiast**
+**Informatics student · Software developer · Graphic designer**
 
 Building thoughtful digital experiences, one project at a time.
 
@@ -21,7 +21,7 @@ Building thoughtful digital experiences, one project at a time.
 
 > **Build with purpose. Design with clarity. Keep learning.**
 
-I enjoy creating web applications that make ideas useful and accessible. My work brings together full-stack development, interface design, and curiosity about AI-assisted tools.
+I bring experience in software development and graphic design to create useful, considered digital experiences. I enjoy connecting code, visual design, and curiosity about AI-assisted tools.
 
 - **Building:** web applications and digital product experiences.
 - **Learning:** full-stack architecture, UI/UX, and AI-assisted workflows.
@@ -66,12 +66,19 @@ A library application exploring migrations, seeders, Eloquent accessors, and sco
 
 ### 03 / THE TOOLKIT
 
-**Development**  
-`PHP`  ·  `Laravel`  ·  `JavaScript`  ·  `TypeScript`  ·  `React`  
-`HTML`  ·  `CSS`  ·  `Tailwind CSS`  ·  `Bootstrap`
+**Languages**  
+`Python` · `C++` · `PHP` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
 
-**Data & creative tools**  
-`MySQL`  ·  `Git`  ·  `GitHub`  ·  `Figma`  ·  `VS Code`
+**Frameworks & web**  
+`Laravel` · `React` · `Vite` · `Tailwind CSS` · `Bootstrap`
+
+**Software development & data**  
+`Docker` · `Git` · `GitHub` · `VS Code` · `MySQL`
+
+**Graphic design & creative**  
+`Canva` · `Affinity` · `Figma` · `Adobe Photoshop` · `Adobe Illustrator`
+
+> From application architecture and implementation to visual composition and digital design.
 
 ### 04 / ACTIVITY
 

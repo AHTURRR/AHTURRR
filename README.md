@@ -1,109 +1,175 @@
 <div align="center">
 
-<img src="./assets/ahmad-motion.svg" width="100%" alt="Ahmad Turmudi — building useful digital products">
+<img src="./assets/ahmad-motion.svg" width="100%" alt="Ahmad Turmudi — software development and graphic design">
 
-# Ahmad Turmudi
+# AHMAD TURMUDI
 
-**Informatics student · Software developer · Graphic designer**
+**Software Developer · Web Developer · Graphic Designer**
 
-Building thoughtful digital experiences, one project at a time.
+Building functional software and visual experiences with equal attention to structure and detail.
 
-[![GitHub](https://img.shields.io/badge/GitHub-AHTURRR-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHTURRR)
-[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turmudi811@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-turmudi-4a3aab353)
-[![Instagram](https://img.shields.io/badge/Instagram-ahmdtrmdi-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmdtrmdi)
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHTURRR)
+[![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turmudi811@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-turmudi-4a3aab353)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmdtrmdi)
 
 </div>
 
 ---
 
-### 01 / THE IDEA
+<div align="center">
 
-> **Build with purpose. Design with clarity. Keep learning.**
+### BUILD · DESIGN · LEARN
 
-I bring experience in software development and graphic design to create useful, considered digital experiences. I enjoy connecting code, visual design, and curiosity about AI-assisted tools.
+`Software development`  ·  `Web applications`  ·  `Graphic design`  ·  `AI-assisted workflows`
 
-- **Building:** web applications and digital product experiences.
-- **Learning:** full-stack architecture, UI/UX, and AI-assisted workflows.
-- **Open to:** collaboration on creative projects and useful open-source software.
+</div>
 
-### 02 / SELECTED WORK
+## About me
+
+I am an Informatics student with experience in software development and graphic design. I enjoy turning ideas into useful products: from database-backed applications and development environments to visual assets, layouts, and digital brand experiences.
 
 <table>
-<tr><td width="50%">
+<tr>
+<td width="33%" align="center">
 
-#### 🌿 AgriVision
+**BUILDING**
 
-An AI-assisted plant disease identification application using leaf images, with diagnosis history and feedback.
+Web applications  
+APIs · databases · interfaces
 
-`Laravel` · `React` · `TypeScript` · `Gemini`
+</td>
+<td width="33%" align="center">
 
-[Explore repository →](https://github.com/AHTURRR/AgriVision)
+**DEVELOPING**
 
-</td><td width="50%">
+Software workflows  
+Docker · Git · testing · deployment
 
-#### ◈ DORA — Product Website
+</td>
+<td width="33%" align="center">
 
-A product profile and download website for Data Overview & Research Assistant, with previews, documentation, and team information.
+**CREATING**
 
-`React` · `TypeScript` · `Vite`
+Graphic assets  
+Layouts · branding · digital content
 
-[Explore repository →](https://github.com/AHTURRR/Website-Profiling-DORA.)
-
-</td></tr>
-<tr><td colspan="2">
-
-#### ▦ Laravel Library System
-
-A library application exploring migrations, seeders, Eloquent accessors, and scopes.
-
-`Laravel` · `PHP` · `MySQL` · `Bootstrap` · [Explore repository →](https://github.com/AHTURRR/tugas2-mvc-laravel_PemWeb2_pertem-10)
-
-</td></tr>
+</td>
+</tr>
 </table>
 
-[View all repositories →](https://github.com/AHTURRR?tab=repositories)
+## Selected projects
 
-### 03 / WHAT I BRING
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Software development | Graphic design |
-|---|---|
-| Building web applications, working with databases and developer tools | Creating visual compositions and digital assets |
-| Turning ideas into functional, maintainable experiences | Bringing clarity, consistency and visual identity to a design |
+### 🌿 AgriVision
 
-### 04 / THE TOOLKIT
+AI-assisted plant disease identification from leaf images, with authentication, diagnosis history, feedback, and recommendations.
+
+**Stack:** Laravel · React · TypeScript · Gemini AI
+
+[View project →](https://github.com/AHTURRR/AgriVision)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Website Profiling DORA
+
+A product profile and download website with application previews, documentation, release information, and team content.
+
+**Stack:** React · TypeScript · Vite · CSS
+
+[View project →](https://github.com/AHTURRR/Website-Profiling-DORA.)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### ▦ Laravel Library System
+
+A library application built to explore migrations, seeders, Eloquent accessors, scopes, route testing, and database views.
+
+**Stack:** Laravel · PHP · MySQL · Bootstrap · [View project →](https://github.com/AHTURRR/tugas2-mvc-laravel_PemWeb2_pertem-10)
+
+</td>
+</tr>
+</table>
+
+[Browse all repositories →](https://github.com/AHTURRR?tab=repositories)
+
+## Software development toolkit
+
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/SOFTWARE-DEVELOPMENT-111111?style=for-the-badge&logo=github&logoColor=white" alt="Software development">
-  <img src="https://img.shields.io/badge/GRAPHIC-DESIGN-111111?style=for-the-badge&logo=figma&logoColor=white" alt="Graphic design">
-  <img src="https://img.shields.io/badge/BUILD-AND_CREATE-111111?style=for-the-badge&logoColor=white" alt="Build and create">
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
-**Languages**  
-`Python` · `C++` · `PHP` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
+### Frameworks and application development
 
-**Frameworks & web**  
-`Laravel` · `React` · `Vite` · `Tailwind CSS` · `Bootstrap`
+<p>
+<img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
 
-**Software development & data**  
-`Docker` · `Git` · `GitHub` · `VS Code` · `MySQL`
+### Tools, infrastructure, and workflow
 
-**Graphic design & creative**  
-`Canva` · `Affinity` · `Figma` · `Adobe Photoshop` · `Adobe Illustrator`
+<p>
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
-> From application architecture and implementation to visual composition and digital design.
+## Creative toolkit
 
-### 05 / ACTIVITY
+<p>
+<img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+<img src="https://img.shields.io/badge/Affinity-111111?style=for-the-badge&logo=affinity&logoColor=white" alt="Affinity">
+<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/Adobe_Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
+<img src="https://img.shields.io/badge/Adobe_Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
+</p>
 
-My GitHub profile shows my contribution history, pinned projects, and current activity.
+I use creative tools for visual composition, branding, digital content, interface direction, and presentation assets.
 
-**[Explore contributions and activity →](https://github.com/AHTURRR)**  
-**[Browse repositories →](https://github.com/AHTURRR?tab=repositories)**
+## How I work
 
-### 06 / MINI CHALLENGE
+```text
+Understand the problem
+        ↓
+Plan the experience
+        ↓
+Build the software
+        ↓
+Refine the visual details
+        ↓
+Document and share
+```
+
+## Mini challenge
 
 <details>
-<summary>🎮 Find the bug — click to play</summary>
+<summary>🎮 Find the bug</summary>
 
 What does this JavaScript expression return?
 
@@ -114,15 +180,15 @@ typeof null
 <details>
 <summary>Reveal answer</summary>
 
-`"object"`. This is a long-standing JavaScript behavior; use `value === null` to check for null.
+`"object"`. To check for null, use `value === null`.
 
 </details>
 </details>
 
 <details>
-<summary>🧩 Design challenge — click to play</summary>
+<summary>🎨 Design challenge</summary>
 
-Choose one: **clarity**, **contrast**, or **consistency**. Now find one place in a project where you can improve it.
+Choose one visual principle—**clarity**, **contrast**, or **consistency**—and improve one screen in your next project using it.
 
 </details>
 
@@ -130,7 +196,7 @@ Choose one: **clarity**, **contrast**, or **consistency**. Now find one place in
 
 <div align="center">
 
-### Let's build something useful.
+### LET'S BUILD SOMETHING USEFUL
 
 [Email](mailto:turmudi811@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmad-turmudi-4a3aab353) · [Instagram](https://instagram.com/ahmdtrmdi) · [GitHub](https://github.com/AHTURRR)
 

@@ -19,7 +19,7 @@ Building functional software and visual experiences with equal attention to stru
 
 <div align="center">
 
-### BUILD · DESIGN · LEARN
+### ✦ BUILD · DESIGN · LEARN ✦
 
 `Software development`  ·  `Web applications`  ·  `Graphic design`  ·  `AI-assisted workflows`
 
@@ -100,59 +100,67 @@ A library application built to explore migrations, seeders, Eloquent accessors, 
 
 [Browse all repositories →](https://github.com/AHTURRR?tab=repositories)
 
-## Software development toolkit
+## ✦ TECH ARSENAL ✦
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,php,java,html,css,bash&theme=dark" alt="Programming languages">
 
-### Frameworks and application development
+### Frameworks and platforms
 
-<p>
-<img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-<img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,react,nodejs,vite,tailwind,bootstrap,tensorflow&theme=dark" alt="Frameworks and platforms">
 
-### Tools, infrastructure, and workflow
+### Developer tools and infrastructure
 
-<p>
-<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman,mysql,sqlite&theme=dark" alt="Developer tools and infrastructure">
 
-## Creative toolkit
+### Creative tools
 
-<p>
-<img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-<img src="https://img.shields.io/badge/Affinity-111111?style=for-the-badge&logo=affinity&logoColor=white" alt="Affinity">
-<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-<img src="https://img.shields.io/badge/Adobe_Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
-<img src="https://img.shields.io/badge/Adobe_Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
-</p>
+<img src="https://skillicons.dev/icons?i=canva,figma,ps,ai&theme=dark" alt="Creative tools">
 
-I use creative tools for visual composition, branding, digital content, interface direction, and presentation assets.
+<br>
 
-## How I work
+<sub>Python · C++ · PHP · JavaScript · TypeScript · Java · HTML · CSS · Bash</sub>  
+<sub>Laravel · React · Node.js · Vite · Tailwind CSS · Bootstrap · TensorFlow</sub>  
+<sub>Docker · Git · GitHub · GitHub Actions · Linux · VS Code · Postman · MySQL</sub>  
+<sub>Canva · Affinity · Figma · Photoshop · Illustrator</sub>
+
+</div>
+
+## ✦ GITHUB STATISTICS ✦
+
+<div align="center">
+
+<a href="https://github.com/AHTURRR">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AHTURRR&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=12&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&custom_title=Ahmad%20Turmudi%20%7C%20GitHub%20Stats" alt="GitHub Stats">
+</a>
+<a href="https://github.com/AHTURRR">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHTURRR&layout=compact&langs_count=8&hide_border=false&border_radius=12&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&custom_title=Most%20Used%20Languages" alt="Top Languages">
+</a>
+
+<br>
+
+<a href="https://github.com/AHTURRR">
+<img height="170" src="https://streak-stats.demolab.com?user=AHTURRR&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border=FFFFFF&borderRadius=12" alt="GitHub Streak">
+</a>
+
+<br><br>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHTURRR&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity">
+
+<br><br>
+
+<img width="92%" src="https://ghchart.rshah.org/111111/AHTURRR" alt="GitHub contribution calendar">
+
+<br>
+
+<sub>If a statistics card is temporarily unavailable, use the links above to view the live GitHub data.</sub>
+
+</div>
+
+## Development and design workflow
 
 ```text
 Understand the problem

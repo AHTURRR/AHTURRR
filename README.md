@@ -27,7 +27,11 @@ Building functional software and visual experiences with equal attention to stru
 
 <h2 align="center">✦ ABOUT ME ✦</h2>
 
+<div align="center">
+
 I am an Informatics student with experience in software development and graphic design. I enjoy turning ideas into useful products: from database-backed applications and development environments to visual assets, layouts, and digital brand experiences.
+
+</div>
 
 <table>
 <tr>
@@ -73,7 +77,7 @@ AI-assisted plant disease identification from leaf images, with authentication, 
 [View project →](https://github.com/AHTURRR/AgriVision)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### ◈ Website Profiling DORA
 
@@ -98,7 +102,11 @@ A library application built to explore migrations, seeders, Eloquent accessors, 
 </tr>
 </table>
 
+<div align="center">
+
 [Browse all repositories →](https://github.com/AHTURRR?tab=repositories)
+
+</div>
 
 <h2 align="center">✦ TECH ARSENAL ✦</h2>
 
@@ -211,10 +219,17 @@ Choose one principle—**clarity**, **contrast**, or **consistency**—and impro
 
 <div align="center">
 
-### LET'S BUILD SOMETHING USEFUL
+<img src="./assets/animated-divider.svg" width="78%" alt="Animated divider">
 
-[Email](mailto:turmudi811@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmad-turmudi-4a3aab353) · [Instagram](https://instagram.com/ahmdtrmdi) · [GitHub](https://github.com/AHTURRR)
+<h2>✦ LET'S BUILD SOMETHING USEFUL ✦</h2>
 
-<sub>Designed with curiosity · Built with purpose</sub>
+<p>
+  <a href="mailto:turmudi811@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ahmad-turmudi-4a3aab353"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/ahmdtrmdi"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/AHTURRR"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+<sub>✦ Designed with curiosity · Built with purpose ✦</sub>
 
 </div>

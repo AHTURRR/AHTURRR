@@ -1,0 +1,21 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ahmad Turmudi profile snapshot">
+  <rect width="1200" height="250" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="248" rx="17" stroke="#30363D"/>
+  <text x="60" y="52" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3">PROFILE SNAPSHOT</text>
+  <text x="60" y="82" fill="#8B949E" font-family="Arial, sans-serif" font-size="14">Software development × graphic design</text>
+  <line x1="60" y1="104" x2="1140" y2="104" stroke="#30363D"/>
+  <g font-family="Arial, sans-serif">
+    <rect x="60" y="130" width="240" height="70" rx="10" fill="#161B22" stroke="#30363D"/>
+    <text x="84" y="158" fill="#FFFFFF" font-size="13" font-weight="700">BUILD</text>
+    <text x="84" y="181" fill="#8B949E" font-size="12">Web apps &amp; APIs</text>
+    <rect x="330" y="130" width="240" height="70" rx="10" fill="#161B22" stroke="#30363D"/>
+    <text x="354" y="158" fill="#FFFFFF" font-size="13" font-weight="700">DEVELOP</text>
+    <text x="354" y="181" fill="#8B949E" font-size="12">Docker &amp; Git workflows</text>
+    <rect x="600" y="130" width="240" height="70" rx="10" fill="#161B22" stroke="#30363D"/>
+    <text x="624" y="158" fill="#FFFFFF" font-size="13" font-weight="700">CREATE</text>
+    <text x="624" y="181" fill="#8B949E" font-size="12">Canva &amp; Affinity design</text>
+    <rect x="870" y="130" width="270" height="70" rx="10" fill="#161B22" stroke="#30363D"/>
+    <text x="894" y="158" fill="#FFFFFF" font-size="13" font-weight="700">EXPLORE</text>
+    <text x="894" y="181" fill="#8B949E" font-size="12">AI-assisted products</text>
+  </g>
+</svg>

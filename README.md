@@ -129,66 +129,59 @@ A library application built to explore migrations, seeders, Eloquent accessors, 
 
 </div>
 
-## ✦ GITHUB STATISTICS ✦
+## ✦ PROFILE SNAPSHOT ✦
 
 <div align="center">
 
-<a href="https://github.com/AHTURRR">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AHTURRR&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=12&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&custom_title=Ahmad%20Turmudi%20%7C%20GitHub%20Stats" alt="GitHub Stats">
-</a>
-<a href="https://github.com/AHTURRR">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHTURRR&layout=compact&langs_count=8&hide_border=false&border_radius=12&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&custom_title=Most%20Used%20Languages" alt="Top Languages">
-</a>
+<img src="./assets/profile-stats.svg" width="100%" alt="Profile snapshot">
 
-<br>
+</div>
 
-<a href="https://github.com/AHTURRR">
-<img height="170" src="https://streak-stats.demolab.com?user=AHTURRR&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border=FFFFFF&borderRadius=12" alt="GitHub Streak">
-</a>
+<div align="center">
 
-<br><br>
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-VIEW-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHTURRR?tab=repositories)
+[![Contributions](https://img.shields.io/badge/CONTRIBUTIONS-VIEW-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHTURRR)
+[![Contact](https://img.shields.io/badge/OPEN_TO_COLLABORATE-YES-111111?style=for-the-badge&logo=handshake&logoColor=white)](mailto:turmudi811@gmail.com)
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHTURRR&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity">
+</div>
 
-<br><br>
+## ✦ CONTRIBUTIONS ✦
 
-<img width="92%" src="https://ghchart.rshah.org/111111/AHTURRR" alt="GitHub contribution calendar">
+<div align="center">
 
-<br>
+[Open my GitHub activity →](https://github.com/AHTURRR)
 
-<sub>If a statistics card is temporarily unavailable, use the links above to view the live GitHub data.</sub>
+<sub>Contribution cards are linked to GitHub so the profile remains useful when third-party image services are unavailable.</sub>
 
 </div>
 
 ## Development and design workflow
 
-```text
-Understand the problem
-        ↓
-Plan the experience
-        ↓
-Build the software
-        ↓
-Refine the visual details
-        ↓
-Document and share
-```
+<table align="center">
+<tr>
+<td align="center"><strong>01</strong><br>Understand</td>
+<td align="center">→</td>
+<td align="center"><strong>02</strong><br>Plan</td>
+<td align="center">→</td>
+<td align="center"><strong>03</strong><br>Build</td>
+<td align="center">→</td>
+<td align="center"><strong>04</strong><br>Refine</td>
+<td align="center">→</td>
+<td align="center"><strong>05</strong><br>Share</td>
+</tr>
+</table>
 
 ## Mini challenge
 
 <details>
 <summary>🎮 Find the bug</summary>
 
-What does this JavaScript expression return?
-
-```js
-typeof null
-```
+What does `typeof null` return?
 
 <details>
 <summary>Reveal answer</summary>
 
-`"object"`. To check for null, use `value === null`.
+`"object"`. Use `value === null` when checking for null.
 
 </details>
 </details>
@@ -196,7 +189,7 @@ typeof null
 <details>
 <summary>🎨 Design challenge</summary>
 
-Choose one visual principle—**clarity**, **contrast**, or **consistency**—and improve one screen in your next project using it.
+Choose one principle—**clarity**, **contrast**, or **consistency**—and improve one screen in your next project.
 
 </details>
 

@@ -174,20 +174,16 @@ A library application built to explore migrations, seeders, Eloquent accessors, 
 ## Mini challenge
 
 <details>
-<summary>🎮 Find the bug</summary>
+<summary>🎮 Find the bug — reveal</summary>
 
 What does `typeof null` return?
 
-<details>
-<summary>Reveal answer</summary>
+**Answer:** `"object"`. Use `value === null` when checking for null.
 
-`"object"`. Use `value === null` when checking for null.
-
-</details>
 </details>
 
 <details>
-<summary>🎨 Design challenge</summary>
+<summary>🎨 Design challenge — reveal</summary>
 
 Choose one principle—**clarity**, **contrast**, or **consistency**—and improve one screen in your next project.
 

@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:262626,100:000000&height=230&section=header&text=AHMAD%20TURMUDI&fontSize=42&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" width="100%" alt="Ahmad Turmudi header">
+
 <img src="./assets/ahmad-motion.svg" alt="Animated Ahmad Turmudi motion graphic" width="100%">
 
 # Hi, I'm Ahmad Turmudi 👋
@@ -17,9 +19,53 @@ I build practical web applications with clean interfaces, useful features, and a
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Building+functional+web+applications;Exploring+AI-assisted+development;Turning+ideas+into+useful+digital+products" alt="Typing animation">
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AHTURRR&label=PROFILE+VIEWS&color=000000&labelColor=FFFFFF&style=for-the-badge" alt="Profile views">
+<img src="https://img.shields.io/github/followers/AHTURRR?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=FFFFFF&color=000000&labelColor=FFFFFF" alt="GitHub followers">
+<img src="https://img.shields.io/github/stars/AHTURRR?label=STARS&style=for-the-badge&logo=github&logoColor=FFFFFF&color=000000&labelColor=FFFFFF" alt="GitHub stars">
+
 </div>
 
 ---
+
+<div align="center">
+
+### ✦ V I S I O N ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=16&duration=5000&pause=2200&color=000000&center=true&vCenter=true&width=720&height=38&lines=Build+with+purpose.;Design+with+clarity.;Learn+continuously%2C+share+openly." alt="Vision animation">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:777777,100:000000&height=2&section=header" width="100%" alt="divider">
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%">
+
+◼️<br>
+**CURRENTLY BUILDING**<br>
+<sub>Useful web applications</sub>
+
+</td>
+<td align="center" width="33%">
+
+◻️<br>
+**CURRENTLY LEARNING**<br>
+<sub>Full-stack architecture & AI workflows</sub>
+
+</td>
+<td align="center" width="33%">
+
+⬛<br>
+**OPEN TO COLLABORATE**<br>
+<sub>Open-source and creative products</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:777777,100:000000&height=2&section=header" width="100%" alt="divider">
 
 ## About me
 
@@ -39,7 +85,7 @@ I build practical web applications with clean interfaces, useful features, and a
 
 > More experiments and coursework are available on my [GitHub repositories](https://github.com/AHTURRR?tab=repositories).
 
-## Tech stack
+## Tech arsenal
 
 ### Languages & frameworks
 
@@ -76,18 +122,20 @@ I like projects that connect technology with a clear human need—whether that m
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AHTURRR&show_icons=true&hide_border=true&theme=default&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHTURRR&layout=compact&hide_border=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top languages">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AHTURRR&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=14&bg_color=0A0A0A&title_color=FFFFFF&text_color=EDEDED&icon_color=FFFFFF&border_color=FFFFFF&rank_icon=github" alt="GitHub statistics">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHTURRR&layout=compact&langs_count=8&hide_border=false&border_radius=14&bg_color=0A0A0A&title_color=FFFFFF&text_color=EDEDED&border_color=FFFFFF" alt="Top languages">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=AHTURRR&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub streak">
+<img height="170" src="https://streak-stats.demolab.com?user=AHTURRR&background=0A0A0A&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=EDEDED&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8A8A8A&border=FFFFFF&borderRadius=14" alt="GitHub streak">
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AHTURRR&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="GitHub activity graph">
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHTURRR&bg_color=0A0A0A&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph">
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:777777,100:000000&height=2&section=header" width="100%" alt="divider">
 
 ## Mini game — choose your next build
 
@@ -142,6 +190,8 @@ If you are interested in web development, AI-assisted products, research tools, 
 ![Profile views](https://komarev.com/ghpvc/?username=AHTURRR&style=flat-square&color=000000)
 
 ### Thanks for visiting ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:262626,100:000000&height=140&section=footer&text=KEEP%20BUILDING&fontSize=28&fontColor=FFFFFF&fontAlignY=68&animation=twinkling" width="100%" alt="footer">
 
 </div>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ahmad-turmudi-banner.png" alt="Ahmad Turmudi profile banner" width="100%">
+<img src="./assets/ahmad-motion.svg" alt="Animated Ahmad Turmudi motion graphic" width="100%">
 
 # Hi, I'm Ahmad Turmudi 👋
 
@@ -83,7 +83,48 @@ I like projects that connect technology with a clear human need—whether that m
 
 <img src="https://streak-stats.demolab.com?user=AHTURRR&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub streak">
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AHTURRR&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="GitHub activity graph">
+
 </div>
+
+## Mini game — choose your next build
+
+> **Rules:** choose one mission, then open the matching panel to reveal your developer path.
+
+<details>
+<summary>🛰️ Mission A — Build an AI product</summary>
+
+**Recommended path:** React + TypeScript + Laravel API + Gemini AI.  
+**Unlocked skill:** turning an image input into a useful product workflow.
+
+</details>
+
+<details>
+<summary>🌱 Mission B — Solve a real-world problem</summary>
+
+**Recommended path:** start from the user problem, design the smallest useful flow, then add data and automation.  
+**Unlocked skill:** building software that is useful beyond the demo.
+
+</details>
+
+<details>
+<summary>⚫ Mission C — Make the interface memorable</summary>
+
+**Recommended path:** use a clear hierarchy, strong contrast, consistent spacing, and one visual idea repeated well.  
+**Unlocked skill:** combining clean code with sharp visual design.
+
+</details>
+
+<details>
+<summary>🏆 Final score</summary>
+
+You win when your project is **useful, understandable, and maintainable**. Bonus points for documentation and a polished README.
+
+</details>
+
+> GitHub README files do not run JavaScript, so this mini-game uses native collapsible panels instead of unsafe embedded code.
 
 ## Let's connect
 
@@ -103,3 +144,4 @@ If you are interested in web development, AI-assisted products, research tools, 
 ### Thanks for visiting ✨
 
 </div>
+

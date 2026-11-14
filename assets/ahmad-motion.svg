@@ -1,0 +1,21 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated Ahmad Turmudi motion graphic">
+  <rect width="1200" height="220" rx="18" fill="#000000"/>
+  <path d="M0 170H1200" stroke="#FFFFFF" stroke-opacity="0.18"/>
+  <path d="M0 50H1200" stroke="#FFFFFF" stroke-opacity="0.18"/>
+  <path d="M90 0V220M250 0V220M410 0V220M570 0V220M730 0V220M890 0V220M1050 0V220" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <circle cx="108" cy="170" r="5" fill="#FFFFFF">
+    <animate attributeName="cx" values="108;1090;108" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="170;50;170" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1090" cy="50" r="3" fill="#FFFFFF" opacity="0.8">
+    <animate attributeName="r" values="3;10;3" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="70" y="85" fill="#FFFFFF" font-family="monospace" font-size="15" letter-spacing="4">PORTFOLIO / 2026</text>
+  <text x="70" y="140" fill="#FFFFFF" font-family="Georgia, serif" font-size="42" font-weight="700">AHMAD TURMUDI</text>
+  <text x="70" y="190" fill="#FFFFFF" fill-opacity="0.72" font-family="monospace" font-size="14" letter-spacing="3">BUILDING USEFUL DIGITAL PRODUCTS</text>
+  <rect x="392" y="166" width="9" height="27" fill="#FFFFFF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+

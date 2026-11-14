@@ -64,7 +64,20 @@ A library application exploring migrations, seeders, Eloquent accessors, and sco
 
 [View all repositories →](https://github.com/AHTURRR?tab=repositories)
 
-### 03 / THE TOOLKIT
+### 03 / WHAT I BRING
+
+| Software development | Graphic design |
+|---|---|
+| Building web applications, working with databases and developer tools | Creating visual compositions and digital assets |
+| Turning ideas into functional, maintainable experiences | Bringing clarity, consistency and visual identity to a design |
+
+### 04 / THE TOOLKIT
+
+<p>
+  <img src="https://img.shields.io/badge/SOFTWARE-DEVELOPMENT-111111?style=for-the-badge&logo=github&logoColor=white" alt="Software development">
+  <img src="https://img.shields.io/badge/GRAPHIC-DESIGN-111111?style=for-the-badge&logo=figma&logoColor=white" alt="Graphic design">
+  <img src="https://img.shields.io/badge/BUILD-AND_CREATE-111111?style=for-the-badge&logoColor=white" alt="Build and create">
+</p>
 
 **Languages**  
 `Python` · `C++` · `PHP` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
@@ -80,14 +93,14 @@ A library application exploring migrations, seeders, Eloquent accessors, and sco
 
 > From application architecture and implementation to visual composition and digital design.
 
-### 04 / ACTIVITY
+### 05 / ACTIVITY
 
 My GitHub profile shows my contribution history, pinned projects, and current activity.
 
 **[Explore contributions and activity →](https://github.com/AHTURRR)**  
 **[Browse repositories →](https://github.com/AHTURRR?tab=repositories)**
 
-### 05 / MINI CHALLENGE
+### 06 / MINI CHALLENGE
 
 <details>
 <summary>🎮 Find the bug — click to play</summary>

@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/ahmad-turmudi-banner.png" alt="Ahmad Turmudi profile banner" width="100%">
+
 # Hi, I'm Ahmad Turmudi 👋
 
 ### Informatics Student · Web Developer · UI/UX Enthusiast
@@ -7,12 +9,13 @@
 I build practical web applications with clean interfaces, useful features, and a strong focus on real-world problem solving.
 
 <p>
-  <a href="https://github.com/AHTURRR"><img src="https://img.shields.io/badge/GitHub-AHTURRR-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:EMAIL_ANDA"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="LINKEDIN_ANDA"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/AHTURRR"><img src="https://img.shields.io/badge/GitHub-AHTURRR-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:turmudi811@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ahmad-turmudi-4a3aab353"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/ahmdtrmdi"><img src="https://img.shields.io/badge/Instagram-@ahmdtrmdi-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+functional+web+applications;Exploring+AI-assisted+development;Turning+ideas+into+useful+digital+products" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Building+functional+web+applications;Exploring+AI-assisted+development;Turning+ideas+into+useful+digital+products" alt="Typing animation">
 
 </div>
 
@@ -41,13 +44,24 @@ I build practical web applications with clean interfaces, useful features, and a
 ### Languages & frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,html,css,bootstrap,tailwind" alt="Languages and frameworks">
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>
 
 ### Data, tools & design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,ps,ai" alt="Tools and design">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
 ## What I care about
@@ -62,12 +76,12 @@ I like projects that connect technology with a clear human need—whether that m
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AHTURRR&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHTURRR&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AHTURRR&show_icons=true&hide_border=true&theme=default&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHTURRR&layout=compact&hide_border=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top languages">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=AHTURRR&theme=tokyonight&hide_border=true" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com?user=AHTURRR&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub streak">
 
 </div>
 
@@ -76,14 +90,15 @@ I like projects that connect technology with a clear human need—whether that m
 If you are interested in web development, AI-assisted products, research tools, or UI/UX collaboration, feel free to reach out.
 
 <p align="center">
-  <a href="mailto:EMAIL_ANDA">📧 Email</a> ·
-  <a href="LINKEDIN_ANDA">💼 LinkedIn</a> ·
-  <a href="https://github.com/AHTURRR">🐙 GitHub</a>
+  <a href="mailto:turmudi811@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/ahmad-turmudi-4a3aab353">LinkedIn</a> ·
+  <a href="https://instagram.com/ahmdtrmdi">Instagram</a> ·
+  <a href="https://github.com/AHTURRR">GitHub</a>
 </p>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=AHTURRR&style=flat-square&color=2F81F7)
+![Profile views](https://komarev.com/ghpvc/?username=AHTURRR&style=flat-square&color=000000)
 
 ### Thanks for visiting ✨
 

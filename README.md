@@ -19,13 +19,13 @@ Building functional software and visual experiences with equal attention to stru
 
 <div align="center">
 
-### ✦ BUILD · DESIGN · LEARN ✦
+<h3 align="center">✦ BUILD · DESIGN · LEARN ✦</h3>
 
 `Software development`  ·  `Web applications`  ·  `Graphic design`  ·  `AI-assisted workflows`
 
 </div>
 
-## About me
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
 I am an Informatics student with experience in software development and graphic design. I enjoy turning ideas into useful products: from database-backed applications and development environments to visual assets, layouts, and digital brand experiences.
 
@@ -58,11 +58,11 @@ Layouts · branding · digital content
 </tr>
 </table>
 
-## Selected projects
+<h2 align="center">✦ SELECTED PROJECTS ✦</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🌿 AgriVision
 
@@ -86,7 +86,7 @@ A product profile and download website with application previews, documentation,
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" align="center">
 
 ### ▦ Laravel Library System
 
@@ -100,23 +100,23 @@ A library application built to explore migrations, seeders, Eloquent accessors, 
 
 [Browse all repositories →](https://github.com/AHTURRR?tab=repositories)
 
-## ✦ TECH ARSENAL ✦
+<h2 align="center">✦ TECH ARSENAL ✦</h2>
 
 <div align="center">
 
-### Languages
+<h3 align="center">⌘ LANGUAGES</h3>
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,php,java,html,css,bash&theme=dark" alt="Programming languages">
 
-### Frameworks and platforms
+<h3 align="center">▣ FRAMEWORKS & PLATFORMS</h3>
 
 <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,vite,tailwind,bootstrap,tensorflow&theme=dark" alt="Frameworks and platforms">
 
-### Developer tools and infrastructure
+<h3 align="center">⚙ DEVELOPER TOOLS & INFRASTRUCTURE</h3>
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman,mysql,sqlite&theme=dark" alt="Developer tools and infrastructure">
 
-### Creative tools
+<h3 align="center">✦ CREATIVE TOOLS</h3>
 
 <img src="https://skillicons.dev/icons?i=canva,figma,ps,ai&theme=dark" alt="Creative tools">
 
@@ -129,7 +129,13 @@ A library application built to explore migrations, seeders, Eloquent accessors, 
 
 </div>
 
-## ✦ PROFILE SNAPSHOT ✦
+<div align="center">
+
+<img src="./assets/animated-divider.svg" width="78%" alt="Animated divider">
+
+</div>
+
+<h2 align="center">✦ PROFILE SNAPSHOT ✦</h2>
 
 <div align="center">
 
@@ -145,7 +151,13 @@ A library application built to explore migrations, seeders, Eloquent accessors, 
 
 </div>
 
-## ✦ CONTRIBUTIONS ✦
+<div align="center">
+
+<img src="./assets/animated-divider.svg" width="78%" alt="Animated divider">
+
+</div>
+
+<h2 align="center">✦ CONTRIBUTIONS ✦</h2>
 
 <div align="center">
 
@@ -155,7 +167,7 @@ A library application built to explore migrations, seeders, Eloquent accessors, 
 
 </div>
 
-## Development and design workflow
+<h2 align="center">✦ DEVELOPMENT & DESIGN WORKFLOW ✦</h2>
 
 <table align="center">
 <tr>
@@ -171,7 +183,13 @@ A library application built to explore migrations, seeders, Eloquent accessors, 
 </tr>
 </table>
 
-## Mini challenge
+<div align="center">
+
+<img src="./assets/animated-divider.svg" width="78%" alt="Animated divider">
+
+</div>
+
+<h2 align="center">✦ MINI CHALLENGE ✦</h2>
 
 <details>
 <summary>🎮 Find the bug — reveal</summary>

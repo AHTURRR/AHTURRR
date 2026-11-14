@@ -1,0 +1,6 @@
+<svg width="900" height="44" viewBox="0 0 900 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated section divider">
+  <path d="M40 22H860" stroke="#30363D" stroke-width="2"/>
+  <circle cx="40" cy="22" r="4" fill="#FFFFFF"><animate attributeName="cx" values="40;860;40" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="450" cy="22" r="5" fill="#FFFFFF"><animate attributeName="r" values="3;8;3" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="860" cy="22" r="4" fill="#FFFFFF"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+</svg>
